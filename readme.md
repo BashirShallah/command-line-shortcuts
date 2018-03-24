@@ -2,6 +2,16 @@
 
 Theses are my cmd line shortcuts for windows
 
+## Contents:
+
+[Example](#example)  
+[Installation](#installation)  
+[Laravel Commands](#laravel)  
+[Git Commands](#git)  
+[Windows Commands](windows-commands)  
+
+
+## Example
 For example if you need to check the status of your git repo, you can type:
 ```
 g
