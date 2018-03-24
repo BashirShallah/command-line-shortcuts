@@ -2,9 +2,12 @@
 
 Theses are some cmd shortcuts for windows.
 
+## Version: 0.1
+
 ## Contents:
 
 [Example](#example)  
+[Support](#support)  
 [Installation](#installation)  
 [Laravel Commands](#laravel)  
 [Git Commands](#git)  
@@ -21,7 +24,7 @@ instead of:
 git status
 ```
 
-Support:
+## Support:
 - Git
 - Laravel
 - windows: some common commands.
