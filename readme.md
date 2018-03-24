@@ -1,6 +1,6 @@
 # Command shortcuts:
 
-Theses are my cmd line shortcuts for windows
+Theses are some cmd shortcuts for windows.
 
 ## Contents:
 
