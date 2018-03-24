@@ -44,7 +44,7 @@ Run PhpUnit test:
 t
 ```
 
-### Laravel make everything:
+### Laravel generate all:
 ```
 lga
 ```
@@ -79,7 +79,7 @@ ga
 ```
 git commit -m "Example MSG"
 ```
-gc "MSG" 
+gc "Example MSG" 
 ```
 git log
 ```
